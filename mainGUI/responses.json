@@ -1,0 +1,46 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": [
+      "hello"
+    ],
+    "bot_response": [
+      "Hey there!",
+      "Hello!",
+      "Hey there, what's up?"
+    ],
+    "required_words": []
+  },
+
+  {
+    "response_type": "question",
+    "user_input": [
+      "what",
+      "are",
+      "your",
+      "functions",
+      "commands",
+      "command",
+      "features"
+
+    ],
+    "bot_response": ["\nReady for a digital adventure? Here's what I've got:\n\n*Unleash your creativity! Ask me to 'Generate an image of (subject)' and watch your imagination come to life.\n\n*I can provide insights and information about any image you share, with my image analysis feature - just say 'open image analyser/recogniser'. \n\n*I can search on Google - Say 'Search (query) on Google'.\n\n*Need a mood lift? - Say 'Play (song name)' and let the music vibe begin.\n\n*Feeling Bored? Let's watch some videos - Just Say 'Search (query) on YouTube'.\n\n*Want to open an App effortlessly? - Just Say 'Open (app name)'.\n\n*Memory slipping? Fear not! Command me to 'Remember (task)' and get your To-Do list by saying 'What do you remember?'.\n\n*Game on! Say 'Play a game' and let the fun begin. I've got\n\t*Trivia\n\t*Stone, Paper, Scissors\n\t*Choose your own adventure game\n\t*Choose one option game\n\n*Time for a digital nap! If I've been too chatty, simply say 'Time to sleep' and I'll power down until you're ready to wake me up again.\n\n*You can directly ask me any question also!",
+      "\nReady for a digital adventure? Here's what I've got:\n\n*Unleash your creativity! Ask me to 'Generate an image of (subject)' and watch your imagination come to life.\n\n*I can provide insights and information about any image you share, with my image analysis feature - Say 'Open image analyser/recogniser'. \n\n*I can search on Google - Say 'Search (query) on Google'.\n\n*Need a mood lift? - Say 'Play (song name)' and let the music vibe begin.\n\n*Feeling Bored? Let's watch some videos - Just Say 'Search (query) on YouTube'.\n\n*Want to open an App effortlessly? - Just Say 'Open (app name)'.\n\n*Memory slipping? Fear not! Command me to 'Remember (task)' and get your To-Do list by saying 'What do you remember?'.\n\n*Game on! Say 'Play a game' and let the fun begin. I've got\n\t*Trivia\n\t*Stone, Paper, Scissors\n\t*Choose your own adventure game\n\t*Choose one option game\n\n*Time for a digital nap! If I've been too chatty, simply say 'Time to sleep' and I'll power down until you're ready to wake me up again.\n\n*You can directly ask me any question also!"
+  ],
+    "required_words": ["functions","commands","features","your","command"]
+  },
+  {
+    "response_type": "question",
+    "user_input": [
+      "how",
+      "are",
+      "you"
+    ],
+    "bot_response": ["I'm great! Thanks for asking.","I'm great! Thanks for asking."],
+    "required_words": [
+      "how",
+      "are",
+      "you"
+    ]
+  }
+]
